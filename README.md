@@ -1,5 +1,8 @@
 ### Hello, Ciao, Privet! 👋
 
+My name is Pavel Gordon - software engineer(mainly BackEnd-Java/Kotlin)
+
+About me: 
 - 🔭 I’m currently working on ride-hailing app FreeNOW 
 - 🌱 I’m currently learning Italian 🇮🇹
 <!-- 👯 I’m looking to collaborate on ...-->
@@ -10,10 +13,11 @@
   - https://pgordon.dev/
 - ⚡ Fun fact: I speak with Alexa more than with humans. Hold'up thats not that funny, now that I think about it.
 
-Some stats(maintained automatially):
-- 🌍 Countries visited: 10
-- 📺 Episodes watched: 1 482
-- Hours in Witcher 3: 303
+Some stats:
+- 🌍 Countries visited: 11
+- 🌇 Cities visited: 70
+- 📺 Episodes watched: 1482
+- ⏱ Hours in Witcher 3: 303
 <!--
 **pavelgordon/pavelgordon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
