@@ -1,6 +1,6 @@
 ### Hello, Ciao, Privet! 👋
 
-My name is Pavel Gordon - software engineer(mainly BackEnd-Java/Kotlin)
+My name is Pavel Gordon - software engineer(mainly Backend-Java/Kotlin)
 
 About me: 
 - 🔭 I’m currently working on ride-hailing app FreeNOW 
