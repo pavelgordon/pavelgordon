@@ -5,8 +5,6 @@ My name is Pavel Gordon - software engineer(mainly BackEnd-Java/Kotlin)
 About me: 
 - 🔭 I’m currently working on ride-hailing app FreeNOW 
 - 🌱 I’m currently learning Italian 🇮🇹
-<!-- 👯 I’m looking to collaborate on ...-->
-<!-- 🤔 I’m looking for help with ....-->
 - 💬 Ask me about tech, videogames and travels
 - 📫 How to reach me: 
   - https://twitter.com/PavelGordon
