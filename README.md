@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ride-hailing app FreeNOW 
+- 🌱 I’m currently learning Italian 🇮🇹
+<!-- 👯 I’m looking to collaborate on ...-->
+<!-- 🤔 I’m looking for help with ....-->
+- 💬 Ask me about ...
+- 📫 How to reach me: 
+  - https://twitter.com/PavelGordon
+  - https://pgordon.dev/
+<!--- ⚡ Fun fact: ...-->
 <!--
 **pavelgordon/pavelgordon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
