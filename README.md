@@ -9,6 +9,7 @@ About me:
 - 📫 How to reach me: 
   - https://twitter.com/PavelGordon
   - https://pgordon.dev/
+  - https://www.instagram.com/gordon.pav/
 - ⚡ Fun fact: I speak with Alexa more than with humans. Hold'up thats not that funny, now that I think about it.
 
 Some stats:
