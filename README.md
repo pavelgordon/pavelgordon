@@ -1,14 +1,14 @@
 ### Hello, Ciao, Privet! 👋
 
-My name is Pavel Gordon - software engineer(mainly Backend-Java/Kotlin)
+My name is Pavel Gordon - backend software engineer(Java/Kotlin/Go). 
 
 About me: 
-- 🔭 I’m currently working on ride-hailing app FreeNOW 
-- 🌱 I’m currently learning Italian 🇮🇹
+- 🔭 I’m currently working in MessageBird - CPaaS, located in Amsterdam.
+- 🌍 I speak English, Russian, a bit Italian and a little bit German.
 - 💬 Ask me about tech, videogames and travels
 - 📫 How to reach me: 
-  - https://twitter.com/PavelGordon
-  - https://pgordon.dev/
+  - https://twitter.com/PavelGordon 
+  - https://pgordon.dev/ 
   - https://www.instagram.com/gordon.pav/
 - ⚡ Fun fact: I speak with Alexa more than with humans. Hold'up thats not that funny, now that I think about it.
 
