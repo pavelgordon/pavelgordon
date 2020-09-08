@@ -5,7 +5,7 @@ My name is Pavel Gordon - backend software engineer(Java/Kotlin/Go).
 About me: 
 - 🔭 I’m currently working in MessageBird - CPaaS, located in Amsterdam.
 - 🌍 I speak English, Russian, a bit Italian and a little bit German.
-- 💬 Ask me about tech, videogames and travels
+- 💬 My hobbies are learning languages, playing chess and building smart home
 - 📫 How to reach me: 
   - https://twitter.com/PavelGordon 
   - https://pgordon.dev/ 
