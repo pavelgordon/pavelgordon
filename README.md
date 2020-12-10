@@ -1,10 +1,10 @@
-### Hello, Ciao, Privet! 👋
+### Hello! 👋
 
 My name is Pavel Gordon - backend software engineer(Java/Kotlin/Go). 
 
 About me: 
-- 🔭 I’m currently working in MessageBird - CPaaS, located in Amsterdam.
-- 🌍 I speak English, Russian, a bit Italian and a little bit German.
+- 🔭 I’m currently working in Spotify, located in Stockholm.
+- 🌍 I speak English, Russian, a bit Italian and a little bit German. Ciao!
 - 💬 My hobbies are learning languages, playing chess and building smart home
 - 📫 How to reach me: 
   - https://twitter.com/PavelGordon 
