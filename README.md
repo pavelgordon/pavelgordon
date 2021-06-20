@@ -13,8 +13,6 @@ About me:
 - ⚡ Fun fact: I speak with Alexa more than with humans. Hold'up thats not that funny, now that I think about it.
 
 
-[![Pavel's github stats 2020](https://github-readme-stats.vercel.app/api?username=pavelgordon)](https://github.com/anuraghazra/github-readme-stats)
-
 Some other stats:
 - 🌍 Countries visited: 11
 - 🌇 Cities visited: 70
