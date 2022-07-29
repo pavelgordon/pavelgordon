@@ -5,7 +5,7 @@ My name is Pavel Gordon - backend software engineer, mostly JVM related(Java/Kot
 About me: 
 - 🔭 I’m currently working in Spotify, located in Stockholm, Sweden.
 - 🌍 I speak English, Russian, and learning ~Italian~ Swedish. Follow me on [Duolingo!](https://www.duolingo.com/u/108429008)
-- 💬 I like running, gym and videogames
+- 💬 I like running, gym, walks in the park and obsessed with reading.
 - 📫 How to reach me: 
   - https://twitter.com/PavelGordon 
   - https://pgordon.dev/ 
